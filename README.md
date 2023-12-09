@@ -1,6 +1,8 @@
 ## Biography
 Hey there 👋, I'm Fotiou Dimitrios, hailing from Greece! I dive deep into the world of Electrical and Computer Engineering, fueled by my love for programming. I'm all about exploring <b>Robotic Applications </b>, <b> Machine Learning </b>, <b> Parallel Computing </b>, and <b> Reverse Engineering </b>—those fields keep me buzzing with excitement. 🚀 Besides diving into university projects, I've also been a part of some seriously innovative ventures in these areas.
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dimfot3&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ## Skills and Technologies
 ### 👨‍💻 Languages
 <div>
@@ -25,7 +27,7 @@ Hey there 👋, I'm Fotiou Dimitrios, hailing from Greece! I dive deep into the 
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
   <img src="https://drive.google.com/uc?id=1ukPGmIMl519ErKzLsaQrPw9_LsJXNS7d" title="CUDA" alt="CUDA" width="40" height="40"/>&nbsp;
   <img src="https://drive.google.com/uc?id=1BWEtgIZ6Uwj_t66RaHqNS7QO0KSTsMT_" title="TensorRT" alt="TensorRT" width="40" height="40"/>&nbsp;
-  <img src="https://drive.google.com/uc?id=1sMS47BnVk6amfMAwS4_Z7SNrvL_hcqu7" title="ROS" alt="ROS" width="60" height="40"/>&nbsp;
+  <img src="https://drive.google.com/uc?id=1sMS47BnVk6amfMAwS4_Z7SNrvL_hcqu7" title="ROS" alt="ROS" width="80" height="40"/>&nbsp;
   <img src="https://drive.google.com/uc?id=1IYvu9NG3bl7uUMLKaieBsQ0F8UngfZvt" title="Gazebo" alt="Gazebo" width="40" height="40"/>&nbsp;
 </div>
 
@@ -43,4 +45,3 @@ Hey there 👋, I'm Fotiou Dimitrios, hailing from Greece! I dive deep into the 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fotiou3) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dimitrisfwtiou/)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dimfot3&theme=dark&background=000000)](https://git.io/streak-stats)
