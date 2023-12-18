@@ -32,7 +32,7 @@ Hey there 👋, I'm Fotiou Dimitrios, hailing from Greece! I dive deep into the 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Gazebo" alt="Gazebo" width="40" height="40"/>&nbsp;
 </div>
 
-### Milestones
+## Milestones
 
 - **2020-2021:** Computer Vision & Sensor Fusion programmer at [Aristutle](https://www.aristurtle.gr/) for Greece's first Formula Student autonomous vehicle, [Thetis](https://www.aristurtle.gr/thetisdv/). Achieved 3rd place in Skidpad and 4th in Dynamic Events at Hangarroring.
 - **2022 (March-Sept):** Internship at Information Technologies Institute [ITI](https://www.iti.gr/iti/en/home/), specializing in LiDAR-based Loop Closure Detection for autonomous cars.
