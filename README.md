@@ -17,22 +17,21 @@ Hey there 👋, I'm Fotiou Dimitrios, hailing from Greece! I dive deep into the 
 ### 💻 OS
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://drive.google.com/uc?id=1H6Ut8wouqt_jtH7nkCTaoghZWlckV9cD" title="Arch" alt="Arch" width="40" height="40"/>&nbsp;
-  <img src="https://drive.google.com/uc?id=1J1n5p-nHoQXnePoepQhAyeP92Trxt9HG" title="Kali" alt="Kali" width="40" height="40"/>&nbsp;
-  <img src="https://drive.google.com/uc?id=1XkQY95_F3tmkl1yvl_qJBgnhDQeFVDNo" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
+  <img src="https://drive.google.com/uc?id=1elcj-S3-Iz_855kD-JwUtT-m26nKCAyD" title="Arch" alt="Arch" width="40" height="40"/>&nbsp;
+  <img src="https://drive.google.com/uc?id=1NoI7_oswXi8R4GAWdJH2rsazYjJZvrgi" title="Kali" alt="Kali" width="40" height="40"/>&nbsp;
+  <img src="https://drive.google.com/uc?id=1ikXUhLTcQMJ-Pqt2LHyquu1xIkQM9Ln_" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
 </div>
-
 
 ### 🛠️ APIs and 📚 Libraries
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
-  <img src="https://drive.google.com/uc?id=1ukPGmIMl519ErKzLsaQrPw9_LsJXNS7d" title="CUDA" alt="CUDA" width="40" height="40"/>&nbsp;
-  <img src="https://drive.google.com/uc?id=1BWEtgIZ6Uwj_t66RaHqNS7QO0KSTsMT_" title="TensorRT" alt="TensorRT" width="40" height="40"/>&nbsp;
-  <img src="https://drive.google.com/uc?id=1sMS47BnVk6amfMAwS4_Z7SNrvL_hcqu7" title="ROS" alt="ROS" width="80" height="40"/>&nbsp;
-  <img src="https://drive.google.com/uc?id=1IYvu9NG3bl7uUMLKaieBsQ0F8UngfZvt" title="Gazebo" alt="Gazebo" width="40" height="40"/>&nbsp;
+  <img src="https://drive.google.com/uc?id=1g583PJtWAuSyMm2Z5atk7qeKWbYGHaOY" title="CUDA" alt="CUDA" width="40" height="40"/>&nbsp;
+  <img src="https://drive.google.com/uc?id=1CQuOaPzeT-NhMRZPsCWSOQdlJrWtjSg9" title="TensorRT" alt="TensorRT" width="40" height="40"/>&nbsp;
+  <img src="https://drive.google.com/uc?id=1_1kfzh91zjYXnqzYnKlAWQGuypb-h8mH" title="ROS" alt="ROS" width="80" height="40"/>&nbsp;
+  <img src="https://drive.google.com/uc?id=1A-ioame075CIn7kP8eKMZKTzCiZtcbIb" title="Gazebo" alt="Gazebo" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Gazebo" alt="Gazebo" width="40" height="40"/>&nbsp;
 </div>
-
+https://drive.google.com/file/d//view?usp=sharing
 ## Milestones
 
 - **2020-2021:** Computer Vision & Sensor Fusion programmer at [Aristutle](https://www.aristurtle.gr/) for Greece's first Formula Student autonomous vehicle, [Thetis](https://www.aristurtle.gr/thetisdv/). Achieved 3rd place in Skidpad and 4th in Dynamic Events at Hangarroring.
