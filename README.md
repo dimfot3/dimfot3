@@ -29,7 +29,7 @@ Hey there 👋, I'm Fotiou Dimitrios, hailing from Greece! I dive deep into the 
   <img src="https://drive.google.com/uc?id=1CQuOaPzeT-NhMRZPsCWSOQdlJrWtjSg9" title="TensorRT" alt="TensorRT" width="40" height="40"/>&nbsp;
   <img src="https://drive.google.com/uc?id=1_1kfzh91zjYXnqzYnKlAWQGuypb-h8mH" title="ROS" alt="ROS" width="80" height="40"/>&nbsp;
   <img src="https://drive.google.com/uc?id=1A-ioame075CIn7kP8eKMZKTzCiZtcbIb" title="Gazebo" alt="Gazebo" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Gazebo" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
 ## Milestones
