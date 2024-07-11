@@ -16,7 +16,7 @@ Hey there 👋, I'm Fotiou Dimitrios, hailing from Greece! I dive deep into the 
 
 ### 💻 OS
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://drive.google.com/uc?id=1elcj-S3-Iz_855kD-JwUtT-m26nKCAyD" title="Arch" alt="Arch" width="40" height="40"/>&nbsp;
   <img src="https://drive.google.com/uc?id=1NoI7_oswXi8R4GAWdJH2rsazYjJZvrgi" title="Kali" alt="Kali" width="40" height="40"/>&nbsp;
   <img src="https://drive.google.com/uc?id=1ikXUhLTcQMJ-Pqt2LHyquu1xIkQM9Ln_" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
