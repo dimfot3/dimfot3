@@ -1,5 +1,5 @@
 ## Biography
-Hey there 👋, I'm Fotiou Dimitrios, hailing from Greece! I dive deep into the world of Electrical and Computer Engineering, fueled by my love for programming. I'm all about exploring <b>Robotic Applications </b>, <b> Machine Learning </b>, <b> Parallel Computing </b>, and <b> Reverse Engineering </b>—those fields keep me buzzing with excitement. 🚀 Besides diving into university projects, I've also been a part of some seriously innovative ventures in these areas.
+Hello! I'm Fotiou Dimitrios from Greece, and I specialize in Electrical and Computer Engineering with a love for programming. I'm passionate about Robotic Applications, Machine Learning, Parallel Computing, and Reverse Engineering. Alongside my university projects, I've participated in several innovative ventures in these areas. Currently, I am interested in the research and design of AI applications, particularly in computer vision.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dimfot3&theme=dark&background=000000)](https://git.io/streak-stats)
 
