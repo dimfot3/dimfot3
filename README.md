@@ -2,7 +2,7 @@
 Hello! I’m Fotiou Dimitrios from Greece, a passionate MSc in Electrical and Computer Engineering with a strong foundation in programming. My expertise spans **Robotic Applications**, **Machine Learning**, **Parallel Computing**, and **Reverse Engineering**. Beyond my academic projects, I have actively contributed to several cutting-edge ventures in these domains.  
 Currently, I am a **Researcher at [AIIA.CVML](https://aiia.csd.auth.gr/computer-vision-machine-learning/)** and a **Programmer for the [TEMA Project](https://tema-project.eu/)**, where I focus on the research and design of **AI-driven computer vision applications**.
 
-[![GitHub Streak](https://github-readme-streak-stats-phi-pearl.vercel.app?user=Fotiou&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-bf50y0atg-fotious-projects-be9ffcd4.vercel.app?user=)](https://git.io/streak-stats)
 
 ## Skills and Technologies
 ### 👨‍💻 Languages
