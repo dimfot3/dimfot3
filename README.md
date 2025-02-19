@@ -36,7 +36,7 @@ Currently, I am a **Researcher at [AIIA.CVML](https://aiia.csd.auth.gr/computer-
 
 ## Milestones
 
-- **2024 (Aug) - Now:**: Computer vision researcher at [AIIA.CVML](https://aiia.csd.auth.gr/computer-vision-machine-learning/) and programmer at [TEMA-project](https://tema-project.eu/).
+- **2024 (Aug) - Now:** Computer vision researcher at [AIIA.CVML](https://aiia.csd.auth.gr/computer-vision-machine-learning/) and programmer at [TEMA-project](https://tema-project.eu/).
 - **2023 (July) -  2024 (July):** Served as a Programmer and Network Security Analyst for the Greek Army.
 - **2023 (July):** Completed Master's degree with distinction from the Polytechnic School in Electrical and Computer Engineering, specializing in Computers and Electronics.
 - **2022 (Sept) - 2023 (June):** Completed Diploma [Thesis](https://drive.google.com/file/d/1bU3LGlbmP9Ni8-itYjfeBEJv9t3pE1vR/view?pli=1) on LiDAR-assisted Indoor Environment Replication and Human Detection with [Prof. George Karagiannidis](https://scholar.google.com/citations?user=7FZ1r94AAAAJ).
