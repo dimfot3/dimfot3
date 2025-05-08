@@ -1,4 +1,4 @@
-## Biography
+## About Me
 Hello! I’m Fotiou Dimitrios from Greece, a passionate MSc in Electrical and Computer Engineering with a strong foundation in programming. My expertise spans **Robotic Applications**, **Machine Learning**, **Parallel Computing**, and **Reverse Engineering**. Beyond my academic projects, I have actively contributed to several cutting-edge ventures in these domains.  
 Currently, I am a **Researcher at [AIIA.CVML](https://aiia.csd.auth.gr/computer-vision-machine-learning/)** and a **Programmer for the [TEMA Project](https://tema-project.eu/)**, where I focus on research and design of **AI-driven computer vision applications** for extreme natural disasters.
 
