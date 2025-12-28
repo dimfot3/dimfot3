@@ -1,6 +1,6 @@
 ## About Me
-Hello! I’m Fotiou Dimitrios from Greece, a passionate MSc in Electrical and Computer Engineering with a strong foundation in programming. My expertise spans **Robotic Applications**, **Machine Learning**, **Parallel Computing**, and **Reverse Engineering**. Beyond my academic projects, I have actively contributed to several cutting-edge ventures in these domains.  
-Currently, I am a **Researcher at [AIIA.CVML](https://aiia.csd.auth.gr/computer-vision-machine-learning/)** and a **Programmer for the [TEMA Project](https://tema-project.eu/)**, where I focus on research and design of **AI-driven computer vision applications** for extreme natural disasters.
+Hello! I’m Fotiou Dimitrios from Greece, a passionate MSc in Electrical and Computer Engineering with a strong foundation in programming. My expertise spans **Robotic Applications**, **Machine Learning** and **Parallel Computing**. Beyond my academic projects, I have actively contributed to several cutting-edge ventures in these domains.  
+Currently, I am a **AI Engneer at [D-cube]([https://aiia.csd.auth.gr/computer-vision-machine-learning/](https://www.d-cube.eu/))**, focused on the research and implementation of high-performance inspection algorithms for the immersive production industry.
 
 [![GitHub Streak](https://github-readme-streak-stats-phi-pearl.vercel.app?user=dimfot3&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
@@ -35,7 +35,8 @@ Currently, I am a **Researcher at [AIIA.CVML](https://aiia.csd.auth.gr/computer-
 </div>
 
 ## Milestones
-- **2024 (Aug) - Now:** Computer vision researcher at [AIIA.CVML](https://aiia.csd.auth.gr/computer-vision-machine-learning/) and programmer at [TEMA-project](https://tema-project.eu/).
+- **2025 (Sep) - Now:** AI Engineer at [D-cube]([https://aiia.csd.auth.gr/computer-vision-machine-learning/](https://www.d-cube.eu/)).
+- **2024 (Aug) - 2025 (Sep):** Computer vision researcher at [AIIA.CVML](https://aiia.csd.auth.gr/computer-vision-machine-learning/) and programmer at [TEMA-project](https://tema-project.eu/).
 - **2023 (July) -  2024 (July):** Served as a Programmer and Network Security Analyst for the Greek Army.
 - **2023 (July):** Completed Master's degree with distinction from the Polytechnic School in Electrical and Computer Engineering, specializing in Computers and Electronics.
 - **2022 (Sept) - 2023 (June):** Completed Diploma [Thesis](https://drive.google.com/file/d/1bU3LGlbmP9Ni8-itYjfeBEJv9t3pE1vR/view?pli=1) on LiDAR-assisted Indoor Environment Replication and Human Detection under the supervision of [Prof. George Karagiannidis](https://scholar.google.com/citations?user=7FZ1r94AAAAJ).
