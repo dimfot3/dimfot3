@@ -6,6 +6,17 @@ Currently, I am a **AI Engneer at [D-cube](https://www.d-cube.eu/)**, focused on
 
 
 ## Skills and Technologies
+### 🛠️ Technologies
+<div>
+  <img src="https://github.com/dimfot3/dimfot3/blob/main/icons/torch.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/dimfot3/dimfot3/blob/main/icons/cuda.png" title="CUDA" alt="CUDA" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/dimfot3/dimfot3/blob/main/icons/tensorrt.png" title="TensorRT" alt="TensorRT" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/dimfot3/dimfot3/blob/main/icons/tf.png" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/dimfot3/dimfot3/blob/main/icons/ros.png" title="ROS" alt="ROS" width="80" height="40"/>&nbsp;
+  <img src="https://github.com/dimfot3/dimfot3/blob/main/icons/gazebo.png" title="Gazebo" alt="Gazebo" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/dimfot3/dimfot3/blob/main/icons/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+</div>
+
 ### 👨‍💻 Languages
 <div>
   <img src="https://github.com/dimfot3/dimfot3/blob/main/icons/clang.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -22,17 +33,6 @@ Currently, I am a **AI Engneer at [D-cube](https://www.d-cube.eu/)**, focused on
   <img src="https://github.com/dimfot3/dimfot3/blob/main/icons/arch.png" title="Arch" alt="Arch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/dimfot3/dimfot3/blob/main/icons/kali.png" title="Kali" alt="Kali" width="40" height="40"/>&nbsp;
   <img src="https://github.com/dimfot3/dimfot3/blob/main/icons/windows.png" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
-</div>
-
-### 🛠️ Technologies
-<div>
-  <img src="https://github.com/dimfot3/dimfot3/blob/main/icons/torch.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/dimfot3/dimfot3/blob/main/icons/cuda.png" title="CUDA" alt="CUDA" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/dimfot3/dimfot3/blob/main/icons/tensorrt.png" title="TensorRT" alt="TensorRT" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/dimfot3/dimfot3/blob/main/icons/tf.png" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/dimfot3/dimfot3/blob/main/icons/ros.png" title="ROS" alt="ROS" width="80" height="40"/>&nbsp;
-  <img src="https://github.com/dimfot3/dimfot3/blob/main/icons/gazebo.png" title="Gazebo" alt="Gazebo" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/dimfot3/dimfot3/blob/main/icons/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
 ## Milestones
