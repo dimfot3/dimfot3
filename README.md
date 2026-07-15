@@ -1,6 +1,6 @@
 ## About Me
-Hello! I’m Fotiou Dimitrios from Greece, a passionate MSc in Electrical and Computer Engineering with a strong foundation in programming. My expertise spans **Robotic Applications**, **Machine Learning** and **Parallel Computing**. Beyond my academic projects, I have actively contributed to several cutting-edge ventures in these domains.  
-Currently, I am a **AI Engneer at [D-cube](https://www.d-cube.eu/)**, focused on the research and implementation of high-performance inspection algorithms for the immersive production industry.
+I'm Dimitrios Fotiou, MSc in Electrical and Computer Engineering, based in Greece. My work focuses on **Robotics**, **Machine Learning**, and **Parallel Computing**, spanning both academic research and industry projects. </br>
+I'm currently an **AI Engineer at [D-cube](https://www.d-cube.eu/)**, developing inspection algorithms for the immersive production industry.
 
 [![GitHub Streak](https://github-readme-streak-stats-phi-pearl.vercel.app?user=dimfot3&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
